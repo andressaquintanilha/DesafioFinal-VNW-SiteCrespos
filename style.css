@@ -180,14 +180,14 @@ main {
 }
 
 .container-main h2 {
-    font-size: 30px;
+    font-size: 2.3vw;
     font-weight: 800;
     font-family: 'Playfair Display', serif;
     margin-bottom: 20px;
 }
 
 .container-main p {
-    font-size: 18px;
+    font-size: 1.3vw;
 }
 
 .container-secondary {
@@ -474,16 +474,16 @@ footer img {
     }
 
     .body1-p2 {
+        padding-bottom: 8vw;
         display: flex;
         flex-direction: column;
         font-size: 6.5vw;
-        width: 75vw;
-        justify-content: center;
+        width: 85vw;
         margin: 0 auto;
     }
 
     .container-main {
-        max-width: 85vw;
+        max-width: 100%;
         margin: 0 auto;
         display: flex;
         flex-direction: column;
@@ -494,7 +494,6 @@ footer img {
     #step5,
     #step7 {
         position: relative;
-        bottom: 5vw;
     }
 
     #step2,
@@ -515,22 +514,22 @@ footer img {
 
     .container-main .steps .description {
         max-width: 100%;
-        padding: 25px;
+        padding: 7vw;
         margin: 0 auto;
         background-color: #9767A9;
         color: #fff;
-        transform: translateY(-5%);
+        transform: translateY(-10%);
     }
 
     .container-main h2 {
-        font-size: 30px;
+        font-size: 8vw;
         font-weight: 800;
         font-family: 'Playfair Display', serif;
         margin-bottom: 10px;
     }
 
     .container-main p {
-        font-size: 18px;
+        font-size: 4vw;
     }
 
     .container-secondary{
