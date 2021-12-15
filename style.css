@@ -17,7 +17,7 @@ header {
     position: fixed;
     z-index: 80;
     height: 6vw;
-    width: 98.7vw;
+    width: 100%;
 }
 
 .nav-header-media {
